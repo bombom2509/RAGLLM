@@ -6,4 +6,5 @@ python-dotenv
 langchain-text-splitters
 together
 pinecone
+python-multipart
 
