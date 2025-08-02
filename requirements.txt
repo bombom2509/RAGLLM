@@ -5,4 +5,5 @@ requests
 python-dotenv
 langchain-text-splitters
 together
-pinecone-client
+pinecone
+
